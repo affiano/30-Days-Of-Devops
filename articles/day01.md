@@ -54,3 +54,6 @@ References
 - https://docs.gitlab.com/ee/ci/
 - https://devcenter.heroku.com/articles/buildpacks
 - https://docs.gitlab.com/ee/ci/yaml/
+
+##
+[Day 02. Configuring a EC2 instance at AWS using Terraform >>](day02.md)

@@ -114,4 +114,6 @@ In a few minutes we can test connecting by ssh.
 - https://www.terraform.io/docs/providers/aws/r/security_group.html
 
 ##
-[<< Day 01 ](day01.md)        [Day 03  >>](day03.md)
+[<< Day 01. Deploying an Ruby App from Gitlab to Heroku ](day01.md)
+
+[Day 03  >>](day03.md)
